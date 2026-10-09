@@ -1,0 +1,10 @@
+# Public repo: only the website (docs/), its maintenance notes and the media script.
+# Planning material, drafts and spare photos stay local.
+research/
+social/
+archive/
+dist/
+media_spare/
+*_PROMPT.md
+REFERENCE_COMPARISON.md
+.DS_Store
