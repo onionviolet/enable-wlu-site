@@ -12,7 +12,7 @@ Originals live in the organizer's Box folder `e-NABLE Photos/Build Photos` (`Pho
 | `assembly` | IMG_4382 | Jun 30 | Spare |
 | `palm-channel` | IMG_0942 | Jul 7 | Gallery |
 | `forming-bath` | IMG_0737 | Jun 30 | Spare |
-| `fingers-close.mp4` | IMG_4487.MOV (6.0 to 11.2 s, no audio) | Jul 8 | Gallery |
+| `fingers-close.mp4` | IMG_4487.MOV (6.0 to 11.2 s, no audio); hand partly assembled, two fingers working | Jul 8 | Gallery |
 | `printer-bed` | IMG_4628 | Sep 12 | Not used: shows a failed print |
 | `team-session` | IMG_2893 | Jun 30 | Gallery |
 | `pla-gauntlet`, `fingertips`, `cad-and-parts` | IMG_0945, Jul 9 Photos export, IMG_2898 | Jul 7, Jul 9, Jun 30 | Spare |

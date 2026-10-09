@@ -2,7 +2,7 @@
 
 Type: CURRENT-STATE. Audience: group organizers and website maintainers.
 
-The site is plain HTML, CSS and a small script in `docs/`, ready for free GitHub Pages hosting (publish from the `docs` folder). No build step, accounts, trackers or backend. Version 3 (one short page, about 300 words) was built October 9, 2026, following `research/org_audit/00_SYNTHESIS.md`. Earlier drafts are in `archive/v1/` and `archive/v2/`. Not yet published.
+The site is plain HTML, CSS and a small script in `docs/`, ready for free GitHub Pages hosting (publish from the `docs` folder). No build step, accounts, trackers or backend. Version 3 (one short page, about 300 words) was built October 9, 2026, following `research/org_audit/00_SYNTHESIS.md`. Earlier drafts are in `archive/v1/` and `archive/v2/`. Live at https://onionviolet.github.io/enable-wlu-site/ (published October 9, 2026).
 
 ## Preview
 
@@ -17,7 +17,6 @@ Then open http://127.0.0.1:8766/.
 - **Join box:** the `<!-- EDIT -->` comments for the first session and the group email. Update "Where things stand" and both "Updated" dates when something changes.
 - **Projects:** one card per build, in the style of Duke's team list. Copy a card to add a project; the dashed "Your project" card stays last. Fill hand two's `<!-- EDIT -->` details when known.
 - **Photos:** see `MEDIA.md`.
-- **Share preview image:** after deploying, put the full `https://` address in the `og:image` tag.
 
 ## Facts the site relies on
 
