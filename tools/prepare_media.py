@@ -23,6 +23,8 @@ PHOTOS = [
     ("pla-gauntlet", "IMG_0945.HEIC", (0.0, 0.2, 1.0, 1.0)),
     ("fingertips", "80529383984__72D559A8-33E7-4E0C-81DD-16CFA34B3D6E.heic", (0.0, 0.1, 1.0, 0.85)),
     ("printer-bed", "IMG_4628.heic", (0.0, 0.2, 1.0, 0.85)),
+    # Sent by the organizer via Messages on Oct 10; copy it into the Build Photos folder first.
+    ("printer-watch", "IMG_4386.heic", (0.0, 0.0, 1.0, 1.0)),
 ]
 
 os.makedirs(OUT, exist_ok=True)
